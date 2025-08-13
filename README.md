@@ -1,2 +1,2 @@
-# shubham-progects
+# shubham-projects
 This is my first repository.
